@@ -1,6 +1,6 @@
 # Database_Project 
   
-## created by 
+## Authors
   Joon Jung, Ryu Muthui and Matthew Falkoski (Fall 2015) 
 
 ## Description
