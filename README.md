@@ -9,5 +9,5 @@
 ## Tool & Language
 <img src="http://www.lafermeduweb.net/images/tutorial/39/.orig/mysql-workbench.png">
 
-<img src="https://uploads.toptal.io/blog/category/logo/44/mysql.png">
+<img src="http://code-epicenter.com/wp-content/uploads/2015/11/mysql.jpg">
 <br>
